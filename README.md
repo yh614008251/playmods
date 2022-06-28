@@ -1,5 +1,5 @@
 # playmods
 
-<a href="https://www.playmods.net/">PC项目主页</a>
+PC端地址: https://www.playmods.net/
 
-<a href="https://m.playmods.net/">项目主页</a>
+移动端地址: https://m.playmods.net/
